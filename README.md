@@ -27,9 +27,7 @@ Real-Time Document Processing Status
 Interactive Querying and Instant Responses
 Clean, Professional Gradio UI
 
-
-# Project Architecture
-
+Project Architecture
 ├── app.py                 # Main Gradio web application
 ├── get_chunks.py          # PDF text, image, and table extraction
 ├── ingestion_pipeline.py  # Vector database creation (FAISS)
@@ -39,7 +37,8 @@ Clean, Professional Gradio UI
 ├── requirements.txt
 ├── README.md
 ├── .env
-└── faiss_index/           # Vector store (auto-generated)
+└── faiss_index/      
+        
 
 # Prerequisites
 # System Requirements
